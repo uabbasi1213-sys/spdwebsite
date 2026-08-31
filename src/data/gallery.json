@@ -1,0 +1,49 @@
+{
+  "images": [
+    {
+      "id": "1",
+      "filename": "gallery-placeholder-1.jpg",
+      "url": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=800&q=80",
+      "caption": "Our cargo trailer fleet ready for Karachi–Lahore operations",
+      "order": 1,
+      "category": "fleet",
+      "addedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "filename": "gallery-placeholder-2.jpg",
+      "url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
+      "caption": "Professional cargo loading operations",
+      "order": 2,
+      "category": "operations",
+      "addedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "filename": "gallery-placeholder-3.jpg",
+      "url": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=800&q=80",
+      "caption": "Heavy-duty freight truck on highway",
+      "order": 3,
+      "category": "fleet",
+      "addedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "filename": "gallery-placeholder-4.jpg",
+      "url": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
+      "caption": "Container yard at Karachi port",
+      "order": 4,
+      "category": "containers",
+      "addedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "filename": "gallery-placeholder-6.jpg",
+      "url": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?w=800&q=80",
+      "caption": "Logistics warehouse operations",
+      "order": 6,
+      "category": "operations",
+      "addedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

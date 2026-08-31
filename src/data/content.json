@@ -1,0 +1,465 @@
+{
+  "company": {
+    "name": "SUPER PAK DATA",
+    "tagline": "Reliable Goods Transportation from Karachi to Lahore",
+    "description": "Professional LCL & FCL goods transportation services with reliable, secure and efficient cargo delivery.",
+    "route": "Karachi → Lahore",
+    "phone": "0300-2024433",
+    "whatsapp": "+923000000000",
+    "email": "superpakdata@gmail.com",
+    "address": {
+      "line1": "Plot. No. 580, Gate No. 1, Gali No. 3,",
+      "line2": "Hawksbay Rd., Karachi,",
+      "line3": "Sindh, Pakistan."
+    },
+    "owner": "Faisal Hussain Bhatti",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3620.0!2d66.9!3d24.8!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDQ4JzAwLjAiTiA2NsKwNTQnMDAuMCJF!5e0!3m2!1sen!2spk!4v1000000000000!5m2!1sen!2spk"
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "badge": "Pakistan's Trusted Freight Partner",
+        "heading": "Reliable Goods Transportation",
+        "headingHighlight": "Karachi to Lahore",
+        "subheading": "Professional LCL & FCL goods transportation services with reliable, secure and efficient cargo delivery across Pakistan.",
+        "primaryButton": "Get a Free Quote",
+        "secondaryButton": "Our Services",
+        "imageAlt": "SUPER PAK DATA cargo truck on Pakistani highway"
+      },
+      "stats": [
+        {
+          "label": "Main Route",
+          "value": "Karachi → Lahore",
+          "icon": "route"
+        },
+        {
+          "label": "Service Type",
+          "value": "LCL & FCL",
+          "icon": "container"
+        },
+        {
+          "label": "Delivery Mode",
+          "value": "Door-to-Door",
+          "icon": "door"
+        },
+        {
+          "label": "Cargo Type",
+          "value": "Commercial Freight",
+          "icon": "freight"
+        }
+      ],
+      "servicesSection": {
+        "badge": "What We Offer",
+        "heading": "Our Transportation Services",
+        "subheading": "From small shipments to full container loads, we handle all types of commercial cargo with care and professionalism."
+      },
+      "whyUsSection": {
+        "badge": "Why Choose Us",
+        "heading": "The SUPER PAK DATA Advantage",
+        "subheading": "We are committed to delivering your goods safely, on time, and with full transparency throughout the journey.",
+        "features": [
+          {
+            "title": "Reliable Delivery",
+            "description": "Consistent and dependable transportation service that you can count on for every shipment.",
+            "icon": "shield-check"
+          },
+          {
+            "title": "Secure Cargo Handling",
+            "description": "Your goods are handled with utmost care from pickup to delivery, ensuring they arrive in perfect condition.",
+            "icon": "lock"
+          },
+          {
+            "title": "Timely Transportation",
+            "description": "We understand the value of your time. Our fleet ensures your cargo reaches Lahore on schedule.",
+            "icon": "clock"
+          },
+          {
+            "title": "Professional Team",
+            "description": "Experienced drivers and logistics personnel dedicated to providing the best service on every route.",
+            "icon": "users"
+          },
+          {
+            "title": "LCL & FCL Options",
+            "description": "Whether you have a small shipment or a full container load, we have the right solution for you.",
+            "icon": "package"
+          },
+          {
+            "title": "Door-to-Door Service",
+            "description": "Convenient pickup and delivery directly from your premises to your destination in Lahore.",
+            "icon": "home"
+          }
+        ]
+      },
+      "cta": {
+        "heading": "Ready to Ship Your Cargo?",
+        "subheading": "Contact us today for a free quote on your Karachi to Lahore transportation needs.",
+        "primaryButton": "Get a Free Quote",
+        "secondaryButton": "Call Us Now"
+      }
+    },
+    "about": {
+      "badge": "About Us",
+      "heading": "About SUPER PAK DATA",
+      "intro": "SUPER PAK DATA is a professional goods transportation and logistics company specializing in reliable freight services between Karachi and Lahore. We are committed to providing safe, efficient, and cost-effective cargo transportation solutions for businesses and individuals across Pakistan.",
+      "missionHeading": "Our Mission",
+      "mission": "To provide the most reliable, secure, and professional goods transportation service on the Karachi-to-Lahore route, ensuring every shipment is delivered safely and on time — every time.",
+      "visionHeading": "Our Vision",
+      "vision": "To be the most trusted name in goods transportation across Pakistan, known for integrity, professionalism, and exceptional service delivery.",
+      "ownerSection": {
+        "heading": "Leadership",
+        "owner": "Faisal Hussain Bhatti",
+        "ownerTitle": "Owner & Director",
+        "ownerBio": "Faisal Hussain Bhatti is the founder and owner of SUPER PAK DATA. With a deep understanding of Pakistan's freight and logistics industry, he established the company with a vision to provide reliable and professional goods transportation services, particularly on the Karachi–Lahore corridor."
+      },
+      "servicesIntroHeading": "What We Do",
+      "servicesIntro": "SUPER PAK DATA offers a comprehensive range of freight and cargo transportation services. From LCL (Less than Container Load) for smaller shipments to FCL (Full Container Load) for bulk cargo — we handle it all with professionalism and care."
+    },
+    "services": {
+      "badge": "Our Services",
+      "heading": "Comprehensive Cargo Transportation Services",
+      "subheading": "Tailored freight solutions for every business need — from small parcels to full container loads.",
+      "services": [
+        {
+          "id": "lcl",
+          "title": "LCL Transportation",
+          "subtitle": "Less than Container Load",
+          "description": "For customers who do not require a full container, our LCL service provides an economical and reliable option to transport smaller cargo shipments from Karachi to Lahore.",
+          "features": [
+            "Cost-effective for smaller shipments",
+            "Shared container space",
+            "Regular departure schedule",
+            "Safe consolidation handling",
+            "Real-time tracking"
+          ],
+          "icon": "package-open",
+          "slug": "lcl",
+          "imageAlt": "LCL cargo consolidation service"
+        },
+        {
+          "id": "fcl",
+          "title": "FCL Transportation",
+          "subtitle": "Full Container Load",
+          "description": "For customers requiring complete container capacity, our FCL service provides dedicated full-container transportation ensuring maximum security and efficiency for large volume cargo.",
+          "features": [
+            "Dedicated full container",
+            "Maximum cargo security",
+            "Faster transit times",
+            "Ideal for bulk shipments",
+            "Cost-effective for large volumes"
+          ],
+          "icon": "container",
+          "slug": "fcl",
+          "imageAlt": "FCL full container load transportation"
+        },
+        {
+          "id": "karachi-lahore",
+          "title": "Karachi to Lahore Transportation",
+          "subtitle": "Inter-City Freight Route",
+          "description": "Our primary and most established route. We provide reliable, scheduled freight transportation between Karachi and Lahore, covering the entire distance with professional drivers and maintained vehicles.",
+          "features": [
+            "Dedicated Karachi–Lahore route",
+            "Experienced drivers",
+            "Well-maintained fleet",
+            "Consistent schedules",
+            "Professional service"
+          ],
+          "icon": "route",
+          "slug": "karachi-lahore",
+          "imageAlt": "Karachi to Lahore transportation route"
+        },
+        {
+          "id": "goods-cargo",
+          "title": "Goods & Cargo Transportation",
+          "subtitle": "Commercial Freight Services",
+          "description": "We handle a wide range of commercial goods and cargo types. Our experienced team ensures proper loading, securing, and transportation of your goods to prevent any damage during transit.",
+          "features": [
+            "Wide range of cargo accepted",
+            "Proper loading & securing",
+            "Commercial goods expertise",
+            "Safe handling protocols",
+            "Insurance options available"
+          ],
+          "icon": "truck",
+          "slug": "goods-cargo",
+          "imageAlt": "Commercial goods cargo transportation"
+        },
+        {
+          "id": "door-to-door",
+          "title": "Door-to-Door Transportation",
+          "subtitle": "Pickup & Delivery Service",
+          "description": "Our door-to-door service means we pick up your cargo directly from your location in Karachi and deliver it to your specified destination in Lahore — no need to transport goods to a depot.",
+          "features": [
+            "Pickup from your location",
+            "Direct delivery to destination",
+            "No depot visits required",
+            "Convenient scheduling",
+            "Full tracking provided"
+          ],
+          "icon": "home",
+          "slug": "door-to-door",
+          "imageAlt": "Door-to-door cargo pickup and delivery"
+        },
+        {
+          "id": "commercial-freight",
+          "title": "Commercial Freight",
+          "subtitle": "Business Cargo Solutions",
+          "description": "Specialized commercial freight transportation designed for businesses that require regular, reliable shipments between Karachi and Lahore. We work with businesses of all sizes.",
+          "features": [
+            "Business-focused service",
+            "Regular shipment handling",
+            "Flexible scheduling",
+            "Professional documentation",
+            "Reliable partnership"
+          ],
+          "icon": "briefcase",
+          "slug": "commercial-freight",
+          "imageAlt": "Commercial freight business transportation"
+        }
+      ]
+    },
+    "lcl": {
+      "badge": "LCL Services",
+      "heading": "Less than Container Load Transportation",
+      "subheading": "The smart, economical choice for smaller cargo shipments from Karachi to Lahore.",
+      "intro": "Our LCL (Less than Container Load) service is designed for businesses and individuals who need to transport cargo that doesn't fill an entire container. Instead of paying for unused container space, you only pay for the space your cargo actually occupies — making it an economical and practical choice for smaller shipments.",
+      "howItWorks": {
+        "heading": "How LCL Works",
+        "steps": [
+          {
+            "step": "1",
+            "title": "Contact Us",
+            "description": "Reach out to us with your cargo details, size, weight and destination."
+          },
+          {
+            "step": "2",
+            "title": "Get a Quote",
+            "description": "We provide you with a competitive, transparent quote based on your cargo volume."
+          },
+          {
+            "step": "3",
+            "title": "Cargo Collection",
+            "description": "We collect your cargo from your location in Karachi and consolidate it securely."
+          },
+          {
+            "step": "4",
+            "title": "Transportation",
+            "description": "Your cargo is transported safely along with other shipments in our container fleet."
+          },
+          {
+            "step": "5",
+            "title": "Delivery",
+            "description": "Your cargo is delivered to your specified location in Lahore, safely and on time."
+          }
+        ]
+      },
+      "benefits": {
+        "heading": "Benefits of LCL",
+        "items": [
+          "Pay only for the space your cargo uses",
+          "No minimum volume requirements",
+          "Regular departure schedules",
+          "Suitable for all types of commercial goods",
+          "Professional cargo consolidation",
+          "Full documentation and tracking",
+          "Safe and secure handling",
+          "Cost-effective for small to medium businesses"
+        ]
+      },
+      "cta": {
+        "heading": "Need LCL Transportation?",
+        "subheading": "Contact us for a free LCL cargo quote.",
+        "button": "Get LCL Quote"
+      }
+    },
+    "fcl": {
+      "badge": "FCL Services",
+      "heading": "Full Container Load Transportation",
+      "subheading": "Complete container capacity for your large volume cargo shipments from Karachi to Lahore.",
+      "intro": "Our FCL (Full Container Load) service provides dedicated container transportation for businesses with large volume cargo. When you book FCL, the entire container is reserved exclusively for your cargo — providing maximum security, privacy, and efficiency for your shipment.",
+      "howItWorks": {
+        "heading": "How FCL Works",
+        "steps": [
+          {
+            "step": "1",
+            "title": "Inquiry & Quote",
+            "description": "Contact us with your cargo specifications and we'll provide a detailed FCL quote."
+          },
+          {
+            "step": "2",
+            "title": "Container Assignment",
+            "description": "A full container is allocated exclusively for your cargo shipment."
+          },
+          {
+            "step": "3",
+            "title": "Loading",
+            "description": "Your cargo is professionally loaded and secured in the dedicated container."
+          },
+          {
+            "step": "4",
+            "title": "Sealed Transportation",
+            "description": "The sealed container is transported directly from Karachi to Lahore."
+          },
+          {
+            "step": "5",
+            "title": "Delivery & Unloading",
+            "description": "Delivered to your destination in Lahore where your cargo is unloaded."
+          }
+        ]
+      },
+      "benefits": {
+        "heading": "Benefits of FCL",
+        "items": [
+          "Exclusive use of entire container",
+          "Maximum cargo security and privacy",
+          "Faster transit — no consolidation delays",
+          "Ideal for large volume shipments",
+          "Reduced risk of cargo damage",
+          "Cost-effective per unit for bulk shipments",
+          "Direct pickup to delivery",
+          "Priority scheduling available"
+        ]
+      },
+      "cta": {
+        "heading": "Need FCL Transportation?",
+        "subheading": "Contact us for a free FCL cargo quote.",
+        "button": "Get FCL Quote"
+      }
+    },
+    "gallery": {
+      "badge": "Our Gallery",
+      "heading": "Our Fleet & Operations",
+      "subheading": "A glimpse into our professional transportation operations and fleet."
+    },
+    "contact": {
+      "badge": "Contact Us",
+      "heading": "Get In Touch",
+      "subheading": "Ready to ship your cargo? Contact us today for a free quote or to learn more about our services.",
+      "formHeading": "Request a Quote",
+      "infoHeading": "Contact Information",
+      "fields": {
+        "name": "Full Name",
+        "phone": "Phone Number",
+        "email": "Email Address",
+        "pickupLocation": "Pickup Location",
+        "deliveryLocation": "Delivery Location",
+        "cargoType": "Cargo Type",
+        "serviceType": "Service Type",
+        "message": "Additional Details / Message",
+        "submitButton": "Send Request"
+      }
+    }
+  },
+  "navigation": {
+    "links": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About Us",
+        "href": "/about"
+      },
+      {
+        "label": "Services",
+        "href": "/services",
+        "dropdown": [
+          {
+            "label": "All Services",
+            "href": "/services"
+          },
+          {
+            "label": "LCL Services",
+            "href": "/services/lcl"
+          },
+          {
+            "label": "FCL Services",
+            "href": "/services/fcl"
+          }
+        ]
+      },
+      {
+        "label": "Gallery",
+        "href": "/gallery"
+      },
+      {
+        "label": "Contact Us",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": "Get a Quote"
+  },
+  "footer": {
+    "tagline": "Karachi → Lahore Transportation",
+    "description": "Professional goods transportation and logistics services connecting Karachi and Lahore with reliability and care.",
+    "quickLinks": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About Us",
+        "href": "/about"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "LCL Services",
+        "href": "/services/lcl"
+      },
+      {
+        "label": "FCL Services",
+        "href": "/services/fcl"
+      },
+      {
+        "label": "Gallery",
+        "href": "/gallery"
+      },
+      {
+        "label": "Contact Us",
+        "href": "/contact"
+      }
+    ],
+    "services": [
+      "LCL Transportation",
+      "FCL Transportation",
+      "Karachi–Lahore Route",
+      "Door-to-Door Delivery",
+      "Commercial Freight",
+      "Cargo Transportation"
+    ],
+    "copyright": "© 2024 SUPER PAK DATA. All rights reserved."
+  },
+  "seo": {
+    "home": {
+      "title": "SUPER PAK DATA | Goods Transportation Karachi to Lahore",
+      "description": "SUPER PAK DATA provides professional LCL and FCL goods transportation services from Karachi to Lahore. Reliable, secure and efficient cargo delivery across Pakistan.",
+      "keywords": "Goods Transport Karachi, Karachi to Lahore Goods Transport, Karachi Lahore Cargo Service, LCL Services Karachi, FCL Services Karachi, Goods Transportation Pakistan, Cargo Transport Karachi, Freight Transport Karachi Lahore"
+    },
+    "about": {
+      "title": "About Us | SUPER PAK DATA – Karachi to Lahore Transportation",
+      "description": "Learn about SUPER PAK DATA, a professional goods transportation and logistics company specializing in the Karachi–Lahore freight route. Led by Faisal Hussain Bhatti."
+    },
+    "services": {
+      "title": "Our Services | SUPER PAK DATA – LCL, FCL & Cargo Transportation",
+      "description": "Explore SUPER PAK DATA's comprehensive cargo transportation services including LCL, FCL, door-to-door, and commercial freight from Karachi to Lahore."
+    },
+    "lcl": {
+      "title": "LCL Transportation Services | SUPER PAK DATA Karachi Lahore",
+      "description": "Cost-effective LCL (Less than Container Load) transportation from Karachi to Lahore. Pay only for the space you use. Contact SUPER PAK DATA for a free quote."
+    },
+    "fcl": {
+      "title": "FCL Transportation Services | SUPER PAK DATA Karachi Lahore",
+      "description": "Full Container Load (FCL) transportation from Karachi to Lahore. Dedicated container for your entire shipment. Secure, fast and reliable. Get a quote today."
+    },
+    "gallery": {
+      "title": "Gallery | SUPER PAK DATA Fleet & Operations",
+      "description": "View SUPER PAK DATA's fleet of cargo trucks, trailers, and container transportation vehicles operating on the Karachi–Lahore route."
+    },
+    "contact": {
+      "title": "Contact Us | SUPER PAK DATA – Get a Free Cargo Quote",
+      "description": "Contact SUPER PAK DATA for a free goods transportation quote from Karachi to Lahore. LCL, FCL, door-to-door and commercial freight services available."
+    }
+  }
+}

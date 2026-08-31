@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-primary-900 text-white font-sans antialiased;
+  }
+
+  ::selection {
+    @apply bg-accent/30 text-white;
+  }
+
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-primary-900;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-primary-600 rounded-full;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-accent;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 bg-accent hover:bg-accent-600 text-white font-semibold px-6 py-3 rounded-xl transition-all duration-200 shadow-orange-glow hover:shadow-none hover:scale-[1.02] active:scale-[0.98];
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-white/30 hover:border-white text-white font-semibold px-6 py-3 rounded-xl transition-all duration-200 hover:bg-white/10;
+  }
+
+  .btn-outline-accent {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-accent text-accent hover:bg-accent hover:text-white font-semibold px-6 py-3 rounded-xl transition-all duration-200;
+  }
+
+  .section-badge {
+    @apply inline-flex items-center gap-2 bg-accent/10 border border-accent/20 text-accent text-sm font-semibold px-4 py-2 rounded-full mb-4;
+  }
+
+  .section-heading {
+    @apply text-3xl md:text-4xl lg:text-5xl font-black text-white leading-tight;
+  }
+
+  .section-subheading {
+    @apply text-primary-300 text-lg leading-relaxed mt-4 max-w-2xl;
+  }
+
+  .card-glass {
+    @apply bg-white/5 border border-white/10 rounded-2xl backdrop-blur-sm hover:bg-white/10 hover:border-accent/30 transition-all duration-300;
+  }
+
+  .card-dark {
+    @apply bg-primary-800/60 border border-white/10 rounded-2xl hover:border-accent/30 hover:shadow-card-hover transition-all duration-300;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-white via-white to-accent bg-clip-text text-transparent;
+  }
+
+  .text-accent-gradient {
+    @apply bg-gradient-to-r from-accent to-accent-400 bg-clip-text text-transparent;
+  }
+
+  .divider-accent {
+    @apply w-16 h-1 bg-accent rounded-full;
+  }
+
+  /* Fade-in animation utility classes */
+  .animate-on-scroll {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+
+  .animate-on-scroll.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .bg-noise {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+  }
+}
