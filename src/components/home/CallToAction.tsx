@@ -42,11 +42,11 @@ export default function CallToAction() {
               <ArrowRight className="w-5 h-5" />
             </Link>
             <a
-              href="tel:+923000000000"
+              href="tel:+923002024433"
               className="inline-flex items-center gap-2 border-2 border-white/50 hover:border-white text-white font-bold px-8 py-4 rounded-2xl text-base transition-all duration-200 hover:bg-white/10"
             >
               <Phone className="w-5 h-5" />
-              Call Us Now
+              Call 0300-2024433
             </a>
           </div>
         </div>

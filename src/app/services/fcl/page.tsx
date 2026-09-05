@@ -227,11 +227,11 @@ export default function FCLServicesPage() {
               <ArrowRight className="w-5 h-5" />
             </Link>
             <a
-              href="tel:+923000000000"
+              href="tel:+923002024433"
               className="btn-secondary flex items-center gap-2"
             >
               <Phone className="w-5 h-5" />
-              Call Us Now
+              Call 0300-2024433
             </a>
           </div>
         </div>

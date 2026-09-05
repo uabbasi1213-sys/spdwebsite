@@ -124,11 +124,11 @@ export default function Navbar() {
           {/* CTA Buttons */}
           <div className="hidden lg:flex items-center gap-3">
             <a
-              href="tel:+923000000000"
+              href="tel:+923002024433"
               className="flex items-center gap-2 text-white/80 hover:text-accent transition-colors text-sm font-medium"
             >
               <Phone className="w-4 h-4" />
-              <span>Call Us</span>
+              <span>0300-2024433</span>
             </a>
             <Link
               href="/contact"
@@ -203,11 +203,11 @@ export default function Navbar() {
           )}
           <div className="pt-3 pb-2 border-t border-white/10 flex flex-col gap-3">
             <a
-              href="tel:+923000000000"
+              href="tel:+923002024433"
               className="flex items-center justify-center gap-2 px-4 py-3 rounded-xl border border-white/20 text-white text-sm font-medium hover:bg-white/10 transition-colors"
             >
               <Phone className="w-4 h-4" />
-              Call Us
+              Call 0300-2024433
             </a>
             <Link
               href="/contact"

@@ -61,11 +61,18 @@ export default function Footer() {
                 </div>
               </div>
               <a
-                href="tel:+923000000000"
+                href="tel:+923002024433"
                 className="flex items-center gap-3 text-primary-400 hover:text-accent transition-colors text-sm"
               >
                 <Phone className="w-4 h-4 text-accent flex-shrink-0" />
-                +92 300 0000000
+                <span>0300-2024433 (Faisal)</span>
+              </a>
+              <a
+                href="tel:+923462024433"
+                className="flex items-center gap-3 text-primary-400 hover:text-accent transition-colors text-sm"
+              >
+                <Phone className="w-4 h-4 text-accent flex-shrink-0" />
+                <span>0346-2024433 (Hammad)</span>
               </a>
               <a
                 href="mailto:info@superpakdata.com"
@@ -134,12 +141,17 @@ export default function Footer() {
               Get a Free Quote
               <ArrowRight className="w-4 h-4" />
             </Link>
-            <div className="mt-4 p-4 bg-white/5 rounded-xl border border-white/10">
-              <p className="text-white/60 text-xs mb-1">Owner</p>
-              <p className="text-white font-semibold text-sm">
-                Faisal Hussain Bhatti
-              </p>
-              <p className="text-primary-400 text-xs mt-1">SUPER PAK DATA</p>
+            <div className="mt-4 p-4 bg-white/5 rounded-xl border border-white/10 space-y-2">
+              <div>
+                <p className="text-white/60 text-xs">Owner</p>
+                <p className="text-white font-semibold text-sm">
+                  Faisal Hussain Bhatti
+                </p>
+              </div>
+              <div className="pt-2 border-t border-white/10">
+                <p className="text-white/60 text-xs font-medium">Hammad Faisal</p>
+                <p className="text-primary-300 text-xs">0346-2024433</p>
+              </div>
             </div>
           </div>
         </div>

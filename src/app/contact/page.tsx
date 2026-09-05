@@ -63,15 +63,27 @@ export default function ContactPage() {
                 <div className="w-12 h-12 bg-blue-400/10 rounded-xl flex items-center justify-center flex-shrink-0">
                   <Phone className="w-6 h-6 text-blue-400" />
                 </div>
-                <div>
-                  <h3 className="text-white font-bold mb-2">Phone / WhatsApp</h3>
-                  <a
-                    href="tel:+923000000000"
-                    className="text-primary-300 hover:text-accent transition-colors text-sm font-medium"
-                  >
-                    +92 300 0000000
-                  </a>
-                  <p className="text-primary-500 text-xs mt-1">
+                <div className="space-y-2">
+                  <h3 className="text-white font-bold mb-1">Phone / WhatsApp</h3>
+                  <div>
+                    <p className="text-white/60 text-xs font-medium">Owner: Faisal Hussain Bhatti</p>
+                    <a
+                      href="tel:+923002024433"
+                      className="text-primary-300 hover:text-accent transition-colors text-sm font-semibold block"
+                    >
+                      0300-2024433
+                    </a>
+                  </div>
+                  <div className="pt-2 border-t border-white/10">
+                    <p className="text-white/60 text-xs font-medium">Hammad Faisal</p>
+                    <a
+                      href="tel:+923462024433"
+                      className="text-primary-300 hover:text-accent transition-colors text-sm font-semibold block"
+                    >
+                      0346-2024433
+                    </a>
+                  </div>
+                  <p className="text-primary-500 text-xs pt-1">
                     Available for calls & WhatsApp
                   </p>
                 </div>

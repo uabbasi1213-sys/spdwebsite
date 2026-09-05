@@ -129,28 +129,40 @@ export default function HeroSection() {
           <div
             className={`transition-all duration-700 delay-[600ms] ${mounted ? "opacity-100 translate-y-0" : "opacity-0 translate-y-6"}`}
           >
-            <div className="flex items-center gap-4 mt-10 pt-8 border-t border-white/10">
+            <div className="flex flex-wrap items-center gap-6 mt-10 pt-8 border-t border-white/10">
+              {/* Contact 1: Owner Faisal Hussain Bhatti */}
               <a
-                href="tel:+923000000000"
-                className="flex items-center gap-3 group"
+                href="tel:+923002024433"
+                className="flex items-center gap-3 group hover:opacity-90 transition-opacity"
               >
                 <div className="w-10 h-10 bg-accent/20 rounded-xl flex items-center justify-center group-hover:bg-accent transition-colors">
                   <Phone className="w-5 h-5 text-accent group-hover:text-white transition-colors" />
                 </div>
                 <div>
-                  <p className="text-white/50 text-xs">Call Us Directly</p>
-                  <p className="text-white font-semibold text-sm">
-                    +92 300 0000000
+                  <p className="text-white/50 text-xs font-medium">Owner: Faisal Hussain Bhatti</p>
+                  <p className="text-white font-bold text-sm tracking-wide">
+                    0300-2024433
                   </p>
                 </div>
               </a>
-              <div className="h-10 w-px bg-white/10" />
-              <div>
-                <p className="text-white/50 text-xs">Owner</p>
-                <p className="text-white font-semibold text-sm">
-                  Faisal Hussain Bhatti
-                </p>
-              </div>
+
+              <div className="hidden sm:block h-10 w-px bg-white/10" />
+
+              {/* Contact 2: Hammad Faisal */}
+              <a
+                href="tel:+923462024433"
+                className="flex items-center gap-3 group hover:opacity-90 transition-opacity"
+              >
+                <div className="w-10 h-10 bg-accent/20 rounded-xl flex items-center justify-center group-hover:bg-accent transition-colors">
+                  <Phone className="w-5 h-5 text-accent group-hover:text-white transition-colors" />
+                </div>
+                <div>
+                  <p className="text-white/50 text-xs font-medium">Hammad Faisal</p>
+                  <p className="text-white font-bold text-sm tracking-wide">
+                    0346-2024433
+                  </p>
+                </div>
+              </a>
             </div>
           </div>
         </div>
