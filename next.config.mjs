@@ -13,7 +13,7 @@ const nextConfig = {
     ],
   },
   experimental: {
-    serverComponentsExternalPackages: ['sharp', 'multer'],
+    serverComponentsExternalPackages: ['sharp'],
   },
 };
 
